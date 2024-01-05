@@ -1,7 +1,8 @@
 repo_name: akasaa101/evilginx2
 report_id: 74b4ef3adc26214eba391f5704e80f06
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-28T08:45:56+00:00'
+timestamp: '2024-01-05T08:32:10+00:00'
 requested_by: kgretzky
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/akasaa101/evilginx2
   detection_source: Repo Metadata
 - name: Codecov
   description: Hosted coverage reports with awesome features to enhance your CI workflow
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/akasaa101/evilginx2/blob/master/vendor/github.com/miekg/dns/.codecov.yml
   detection_source: vendor/github.com/miekg/dns/.codecov.yml
   last_updated_by: Kuba Gretzky
   last_updated_on: 2018-07-26 09:20:37.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/akasaa101/evilginx2
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/evilginx2
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/akasaa101/evilginx2/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Kuba Gretzky
   last_updated_on: 2018-07-26 09:20:37.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/akasaa101/evilginx2/blob/master/vendor/gopkg.in/yaml.v2/go.mod
   detection_source: vendor/gopkg.in/yaml.v2/go.mod
   last_updated_by: Kuba Gretzky
   last_updated_on: 2018-07-26 09:20:37.000000000 Z
@@ -80,6 +87,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/akasaa101/evilginx2/blob/master/vendor/gopkg.in/yaml.v2/go.mod
   detection_source: vendor/gopkg.in/yaml.v2/go.mod
   last_updated_by: Kuba Gretzky
   last_updated_on: 2018-07-26 09:20:37.000000000 Z
